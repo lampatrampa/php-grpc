@@ -1,7 +1,7 @@
 {
-  "name": "spiral/php-grpc",
+  "name": "lampatrampa/php-grpc",
   "type": "server",
-  "description": "High-Performance GRPC server for PHP applications",
+  "description": "Forked from spiral/php-grpc GRPC server for PHP applications",
   "license": "MIT",
   "authors": [
     {
@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "php": ">=7.2",
+    "php": "^7.2",
     "ext-json": "*",
     "google/protobuf": "^3.7",
     "spiral/roadrunner": "^1.8"
